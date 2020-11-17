@@ -1,8 +1,9 @@
 # datadasereadme
 ## Student: Bernard Nyarko   
 - Lecturer: Dr Mary Kim     
-- Course: Advanced Database Management    
+- Course: Advanced Database Management   
 - Project Title: Hospital Management System 
+
 -- phpMyAdmin SQL Dump
 -- version 5.0.2
 -- https://www.phpmyadmin.net/
